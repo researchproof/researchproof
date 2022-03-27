@@ -77,7 +77,6 @@ h6, .h6 {
   border: 1px solid;
   position: relative;
   z-index: 1;
-  transition: .2s ease;
 }
 
 .btn:focus {
@@ -327,7 +326,7 @@ a:hover, a.text-dark:hover {
 }
 
 .bg-secondary {
-  background: #fdefe6 !important;
+  background: #6be6ff !important;
 }
 
 .text-primary {
