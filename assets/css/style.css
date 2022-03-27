@@ -8,12 +8,9 @@ VERSION:	Versoin Number
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700");
 @font-face {
-  font-family: 'hanskendrick';
-  src: url("../plugins/fonts/hanskendrick-regular-webfont.woff") format("woff");
+  font-family: 'Muli', sans-serif;
   font-style: normal;
-  font-display: swap;
 }
 
 body {
@@ -28,12 +25,12 @@ p, .paragraph {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.5;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Muli", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #000000;
-  font-family: "hanskendrick";
+  font-family: "Merriweather", sans-serif;
   font-weight: 600;
   line-height: 1.2;
 }
