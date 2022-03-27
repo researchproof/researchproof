@@ -11,13 +11,12 @@ VERSION:	Versoin Number
 body {
   line-height: 1.6;
   font-family: "Mulish", sans-serif;
-  -webkit-font-smoothing: antialiased;
   font-size: 16px;
   color: #000;
 }
 
 p, .paragraph {
-  font-weight: 400;
+  font-weight: 300;
   font-size: 18px;
   line-height: 1.6;
   font-family: "Mulish", sans-serif;
