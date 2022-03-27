@@ -100,7 +100,7 @@ h6, .h6 {
 }
 
 .btn-primary:hover {
-  background: #ff8c33;
+  background: #2198b0;
 }
 
 .btn-outline-light {
@@ -131,12 +131,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #ff8c33;
+  background: #2198b0;
   color: #fff;
 }
 
 ::selection {
-  background: #ff8c33;
+  background: #2198b0;
   color: #fff;
 }
 
