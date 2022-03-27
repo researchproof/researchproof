@@ -9,17 +9,17 @@ VERSION:	Versoin Number
 -------------------------------------------------------------------*/
 
 body {
-  line-height: 1.5;
+  line-height: 1.6;
   font-family: "Mulish", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
-  color: #585757;
+  color: #000;
 }
 
 p, .paragraph {
   font-weight: 400;
   font-size: 15px;
-  line-height: 1.5;
+  line-height: 1.6;
   font-family: "Mulish", sans-serif;
 }
 
