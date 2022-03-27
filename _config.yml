@@ -3,7 +3,7 @@
 baseurl: "/" # The subpath of your site, e.g. /blog
 url: "http://researchproof.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
-title: Parsa | Portfolio Jekyll Template
+title: Researchproof • Leni Krsova
 logo: /assets/images/logo.png # You can add own logo
 description: # Add your awesome description
 copyright: Copyright 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
@@ -42,7 +42,7 @@ hero:
 #-------------------------------
 # Author Settings
 author:
-  name: Jhon Abraham
+  name: Leni Krsova
 
 #-------------------------------
 # Contact Info
