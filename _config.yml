@@ -37,7 +37,7 @@ featured-post-slider: false # You can enable or disable the featured-post-slider
 # Hero Section
 hero:
   hero-subtitle: I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print.
-  hero-banner: /assets/images/banner1.png # Add your banner image '/assets/images/'
+  hero-banner: /assets/images/bannerl.png # Add your banner image '/assets/images/'
 
 #-------------------------------
 # Author Settings
