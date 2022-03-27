@@ -7,11 +7,6 @@ VERSION:	Versoin Number
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
-/*  typography */
-@font-face {
-  font-family: "Muli", sans-serif;
-  font-style: normal;
-}
 
 body {
   line-height: 1.5;
