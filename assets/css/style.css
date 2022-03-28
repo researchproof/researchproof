@@ -668,14 +668,14 @@ textarea.form-control {
 }
 
 .dividers .divider {
-  border-right: 1px solid #edeef0;
+  border-right: 0px;
   flex-basis: 50%;
   height: 100vh;
   opacity: .6;
 }
 
 .dividers .divider:first-child {
-  border-left: 1px solid #edeef0;
+  border-left: 0px;
 }
 
 .article-full-width {
