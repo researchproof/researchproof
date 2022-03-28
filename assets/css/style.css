@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
-  font-size: 40px;
+  font-size: 50px;
   color: #000000;
   font-family:'Press Start 2P', cursive;
   font-weight: 400;
@@ -344,7 +344,7 @@ a:hover, a.text-dark:hover {
 }
 
 .font-secondary {
-  font-family: "hanskendrick" !important;
+  font-family: "Mulish", sans-serif !important;
 }
 
 .mb-10 {
@@ -578,7 +578,7 @@ textarea.form-control {
 }
 
 .pagination .page-item .page-link {
-  font-family: "hanskendrick";
+  font-family: "Mulish", sans-serif;
   font-size: 30px;
   border: 0;
   color: #585757;
