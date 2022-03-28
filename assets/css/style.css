@@ -132,7 +132,7 @@ body {
 }
 
 ::-moz-selection {
-  background: #2198b0;
+  background: #e7f03e;
   color: #fff;
 }
 
@@ -171,7 +171,7 @@ body {
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #2198b0;
+  background: ##e7f03e;
   border-radius: 50%;
   -webkit-transform: translateX(0);
           transform: translateX(0);
@@ -328,7 +328,7 @@ a:hover, a.text-dark:hover {
 }
 
 .bg-secondary {
-  background: #2198b0 !important;
+  background: ##e7f03e !important;
 }
 
 .text-primary {
@@ -796,7 +796,7 @@ textarea.form-control {
 blockquote {
   font-style: italic;
   color: #000000;
-  background: #fdefe6;
+  background: #e7f03e;
   padding: 20px;
   font-weight: 600;
 }
