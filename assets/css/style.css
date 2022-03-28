@@ -171,7 +171,7 @@ body {
   height: 16px;
   top: 12px;
   left: 15px;
-  background: ##e7f03e;
+  background: #e7f03e;
   border-radius: 50%;
   -webkit-transform: translateX(0);
           transform: translateX(0);
@@ -328,7 +328,7 @@ a:hover, a.text-dark:hover {
 }
 
 .bg-secondary {
-  background: ##e7f03e !important;
+  background: #e7f03e !important;
 }
 
 .text-primary {
