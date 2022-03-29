@@ -58,9 +58,9 @@ contact-form: example@email.com
 
 # Social links
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-twitter-alt", link: "#"}
-- {icon: "ti-linkedin", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/lenikrsova"}
+- {icon: "ti-twitter-alt", link: "https://twitter.com/lenikrsova"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/lenikrsova/"}
 - {icon: "ti-github", link: "#"}
 
 #-------------------------------
