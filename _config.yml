@@ -47,11 +47,11 @@ author:
 #-------------------------------
 # Contact Info
 contact:
-  email: example@ymail.com
-  phone: +90 000 333 22
+  email: 
+  phone: 
   address:
-    city: Sydney
-    street: 6 rip carl Avenue CA 90733
+    city: New York, USA
+    street: 
 
 # Contact Form
 contact-form: example@email.com
