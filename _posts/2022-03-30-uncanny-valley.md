@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why "
+title: "Why some NPCs creep you out more than others?"
 date: 2022-03-30 12:46:10 +03:00
 description: "This is meta description"
 image: "assets/images/featured-post/npcs-uncannyval.PNG"
