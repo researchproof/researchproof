@@ -12,7 +12,19 @@ tags:
   - "Uncanny Valley"
 ---
 
-Have you ever felt creeped out or even repulsed by a video game character but couldn't really tell why? It's a normal experience many people have.
+Have you ever felt creeped out or even repulsed by a video game character but couldn't really tell why? It happens when you subconcisouly hit a so-called uncanny valley, a phenomena when humans realize there is something off with the human-like looking entity in front of them
+
+
+
+## What is uncanny valley?
+
+## What causes it?
+
+## What research says?
+
+## Why should I care?
+
+## How do I apply it in game development?
 
 em ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
