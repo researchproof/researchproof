@@ -703,7 +703,7 @@ textarea.form-control {
 }
 
 .article-full-width .post-image img {
-  height: 400px;
+  height: 100%;
   width: auto;
 }
 
