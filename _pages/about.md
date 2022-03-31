@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-image: /assets/images/IMG_2222.JPG
+image: /assets/images/IMG_6812.JPG
 ---
 <h3 class="font-weight-light">Hello, I’m <span class="font-weight-bold">{{site.author.name}}</span></h3>
 
