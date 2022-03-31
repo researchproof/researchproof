@@ -22,6 +22,8 @@ That's a very good question that even reserchers have not been able to crack in 
 
 ##### What does research say?
 
+Interestingly enough, there also seems to be a generational divide [1]. As anecdotal as it sounds, two Christmas movies have been dividing family members 
+
 ##### But I heard..
 
 ...that uncanny valley might be an uncanny cliff or might not exist at all, right? You're correct. Since the phenomena is not fully understood and its occurence might heavily depend on subjectivity of a human, some research questions the existence of it.  
@@ -37,6 +39,7 @@ Creating, modeling and animating realistic human-like characters is immensely ha
 
 ![]({{site.baseurl}}/assets/images/post-img.jpg)
 
-
+##### References
+[1] https://www.wsj.com/articles/a-generational-divide-in-the-uncanny-valley-11547138712
 
 
