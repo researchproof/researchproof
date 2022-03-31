@@ -16,15 +16,15 @@ Have you ever felt creeped out or even repulsed by a video game character but co
 
 
 
-### What is uncanny valley?
+#### What is uncanny valley?
 
-### What causes it?
+#### What causes it?
 
-### What research says?
+#### What research says?
 
-### Why should I care?
+#### Why should I care?
 
-### How do I apply it in game development?
+#### How do I apply it in game development?
 
 em ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
