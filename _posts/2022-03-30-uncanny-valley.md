@@ -15,7 +15,7 @@ tags:
 Have you ever felt creeped out or even repulsed by a video game character but couldn't really tell why? It happens when you subconciously hit a so-called uncanny valley, a phenomena when humans realize there is something off with the human-like looking entity in front of them.
 
 #### What is uncanny valley?
-You have most like encountered this term already in relation to robots. Uncanny valley was coined by a Japanese
+You have most like encountered this term already in relation to robots. Uncanny valley was coined by a Japanese robotics professor Masahiro Mori in the 1970s. He attached it to the prosthetics 
 
 #### What causes it?
 That's a very good question that even reserchers have not been able to crack in a satisfying way. There have been 
