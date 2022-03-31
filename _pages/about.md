@@ -6,10 +6,28 @@ image: /assets/images/author.jpg
 ---
 <h3 class="font-weight-light">Hello, I’m <span class="font-weight-bold">{{site.author.name}}</span></h3>
 
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+I'm a game researcher born and raised in Europe but currently residing in New York, USA. I created this website to r
 
-I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+I am always interested in how people make sense of technology and how their experience with it is designed. Right now I focus on AI in video games and how gamers perceive believability of NPCs in story driven open world games like The Witcher 3: Wild Hunt,
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+I used to work in companies handling personal data harvested from social media platforms including Facebook, Twitter and Instagram. At some point I wasn’t okay with the unethical dimensions of this type of work and joined the other (“Light”) side of research. I moved both physically and mentally from Europe to the USA to follow a path that allows me to ask and work on fun research questions and problems.
+
+From the topics of datafication and data surveillance, I extended my interest to algorithms and how these help (or dont’) design the experience for thousands of people. Currently, I am interested in learning more about the intersection of algorithms, video games, and storytelling.
+
+Video games in general
+
+I am interested in user experience and design of video games as an experience that helps us escape from our mundane worlds and deal with unprecedented situations.
+
+My favorite games are the ones which put players in the center of the design by creating an immersive experience using narrative and thoughtfully designed experience. I am also a huge fan of indie games and I applaud all the game developers for putting their work out there just because they love developing games.
+
+I started playing video games when I was 5 and stopped as a teenager around the time the first Mass Effect came out. I returned to video games after 15 years (as a player and researcher) through Call of Duty Mobile, Life is Strange, and hidden objects & mini-puzzles Lost Lands game series. Currently, I am exploring different genres of games - open-world RPGs like The Witcher 3: Wild Hunt or Assassin’s Creed: Odyssey, and pixel art farming/crafting sims (Graveyard Keeper, anyone?) being my all time favorite.
+
+Game design
+
+When my PhD obligations permits, I am learning the ropes of game design with game design professionals in a GameDevHub Game Design course. I get a kick from creating something from scratch that could make people happy.
+“I’m a bit of a painter myself.”
+
+I’m an overall an artistic person. In “offline” world far from computer screens, I enjoy water coloring and crafting in general. I love anything pop culture from a blockbuster movie to the recent social media trend.
+
+When pandemic is not a thing I travel quite a bit. In my free time I have fun while cooking, reading, yoga, and playing basketball with my basketball proficient boyfriend Cole.
