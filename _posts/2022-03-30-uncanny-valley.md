@@ -22,6 +22,9 @@ That's a very good question that even reserchers have not been able to crack in 
 
 #### What research says?
 
+#### But I heard..
+
+...that uncanny valley might be an uncanny cliff or might not exist at all, right? You're correct. Since the phenomena is not fully understood and its occurence might heavily depend on subjectivity of a human, some research questions the existence of it.  
 
 #### Why should I care?
 Players detecting uncanny valley while playing game tend to drop from the state of immersion. Immersion is a complex cognitive state so it might be broken by 
