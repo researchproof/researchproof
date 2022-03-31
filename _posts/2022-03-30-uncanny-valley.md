@@ -20,33 +20,22 @@ You have most like encountered this term already in relation to robots. Uncanny 
 #### What causes it?
 That's a very good question that even reserchers have not been able to crack in a satisfying way. There have been 
 
-#### What research says?
+#### What does research say?
 
 #### But I heard..
 
 ...that uncanny valley might be an uncanny cliff or might not exist at all, right? You're correct. Since the phenomena is not fully understood and its occurence might heavily depend on subjectivity of a human, some research questions the existence of it.  
 
 #### Why should I care?
-Players detecting uncanny valley while playing game tend to drop from the state of immersion. Immersion is a complex cognitive state so it might be broken by 
+Players detecting uncanny valley while playing game tend to drop from the state of immersion. Immersion is a complex cognitive state so it might be broken by a myriad of things but when you're developing a game with realistic human0like looking and behaving characters, this is not the way how you want to loose them. 
 
 #### How do I apply it in game development?
 
-em ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint
+#### Cases from video games
+Creating, modeling and animating realistic human-like characters is immensely hard! With the progressively better technology, game studios do their best to deliver the best possible NPCs to their players. However, this not always goes according to the plan. Here are some of the examples of uncanny valley creeping out people, and further down you'll find ones that players agreed upon to be not as creepy.
 
 ![]({{site.baseurl}}/assets/images/post-img.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+
 
 
