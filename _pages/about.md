@@ -9,7 +9,7 @@ image: /assets/images/IMG_2222.jpg
 I created this website to **connect game designers of different specializations with what's been going on in academic research**. And I also love talking about video games, so why not hitting two birds with one stone?
 
 #### Bits about me
-I'm a video game researcher & information science PhD student born and raised in Czechia, Europe, but currently residing in New York, USA. I've always loved game and game culture so studying it is pretty much a dream job! My passion is also in sharing fun and cool facts from research with people around me, which is pretty much why I created this website. #sharingiscaring
+I'm a video game researcher & information science PhD student born and raised in Czechia, Europe, but currently residing in New York, USA. I've always loved video games and the game culture, so studying it is pretty much a dream job! My passion is also sharing fun and cool facts from research with people around me, which is pretty much why I created this website. #sharingiscaring
 
 Research-wise, I've been always interested in how people make sense of technologies around them and how their experience is designed. This has naturally led me from analysing social media data over to algorithms more broadly, which eventually landed me in figuring out **how people make sense of the game AI**. **I focus on understanding how gamers perceive NPCs in video games and what strategies they develop, for example in the combat gameplay**.
 
