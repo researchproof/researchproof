@@ -6,7 +6,7 @@ image: /assets/images/IMG_2222.jpg
 ---
 <h3 class="font-weight-light">Hello, I’m <span class="font-weight-bold">{{site.author.name}}</span></h3>
 
-I created this website to **connect game designers of different specializations with what's been going on in academic research**.
+I created this website to **connect game designers of different specializations with what's been going on in academic research**. And I also love talking about video games, so why not hitting two birds with one stone?
 
 #### Bits about me
 I'm a video game researcher & information science PhD student born and raised in Czechia, Europe, but currently residing in New York, USA. I've always loved game and game culture so studying it is pretty much a dream job! My passion is also in sharing fun and cool facts from research with people around me, which is pretty much why I created this website. #sharingiscaring
