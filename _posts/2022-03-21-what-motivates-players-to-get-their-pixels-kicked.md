@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What motivates players to get their pixels kicked repeatedly?"
+title: "What motivates players to get their pixels repeatedly kicked?"
 date: 2022-03-30 12:46:10 +03:00
 description: "This is meta description"
 image: "assets/images/elden-ring.jpg"
