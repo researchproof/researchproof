@@ -3,13 +3,16 @@ layout: post
 title: "What motivates players to get their pisel kicked over and over again?"
 date: 2022-03-30 12:46:10 +03:00
 description: "This is meta description"
-image: "assets/images/featured-post/npcs-uncanny-sm.PNG"
+image: "assets/images/featured-post/elden-ring.jpg"
 categories: 
   - "Research"
   - "Video Games"
+  - "Elden Ring"
 tags:
-  - "NPCs"
-  - "Uncanny Valley"
+  - "Players"
+  - "Motivation"
+  - "Failure"
+  - "Persistance"
 ---
 
 Have you ever felt creeped out or even repulsed by a video game character but couldn't really tell why? It happens when you subconciously hit a so-called uncanny valley, a phenomena when humans realize there is something off with the human-like looking entity in front of them.
