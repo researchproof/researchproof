@@ -3,7 +3,7 @@ layout: post
 title: "What motivates players to get their pixels kicked repeatedly?"
 date: 2022-03-30 12:46:10 +03:00
 description: "This is meta description"
-image: "assets/images/featured-post/elden-ring.jpg"
+image: "assets/images/elden-ring.jpg"
 categories: 
   - "Research"
   - "Video Games"
