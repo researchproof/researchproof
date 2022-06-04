@@ -16,6 +16,7 @@ Have you ever felt creeped out or even repulsed by a video game character but co
 
 ##### What is uncanny valley?
 You have most like encountered this term already in relation to robots. Uncanny valley was coined by a Japanese robotics professor Masahiro Mori in the 1970s. He attached it to the prosthetics 
+If we go even further in the history, the first discussion about uncanny valley has roots in a 1906 paper by Ernst Anton Jentsch, a German doctor. He talked about a fear of automata 
 
 ##### What causes it?
 That's a very good question that even reserchers have not been able to crack in a satisfying way. There have been 
