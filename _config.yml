@@ -36,7 +36,7 @@ featured-post-slider: false # You can enable or disable the featured-post-slider
 #-------------------------------
 # Hero Section
 hero:
-  hero-subtitle: I’m a game researcher based in New York, USA. Helping game designers leverage research to make better games.
+  hero-subtitle: I’m a UX game researcher based in New York, USA. Helping game designers leverage research to make better games.
   hero-banner: /assets/images/bannerl.png # Add your banner image '/assets/images/'
 
 #-------------------------------
