@@ -15,7 +15,9 @@ tags:
 Have you ever felt creeped out or even repulsed by a video game character but couldn't really tell why? It happens when you subconciously hit a so-called uncanny valley, a phenomena when humans realize there is something off with the human-like looking entity in front of them.
 
 ##### What is uncanny valley?
-You have most like encountered this term already in relation to robots. Uncanny valley was coined by a Japanese robotics professor Masahiro Mori in the 1970s. His hypothesis was that the closer people get to the depiction of robots as humans, the affinity for them increases until we come into a valley. This valley is what we know as "uncanny valley" where people tend to get repulsed by the uncanny resemblance with a human. A good example is a prosthetic hand, which was the original artefact Mori used in his example.
+You have most like encountered this term already in relation to robots. Uncanny valley was coined by a Japanese robotics professor Masahiro Mori in the 1970s. His hypothesis was that the closer people get to the depiction of robots as humans, the affinity for them increases until we come into a valley. This valley is what we know as "uncanny valley" where people tend to get repulsed by the uncanny resemblance with a human.
+
+A good example is a prosthetic hand, which was the original artefact Mori used in his example.
 
 Prosthetic hands, even in the 70s, had achieved a resemblance to the human form that looked on par with false teeth. However, once we hit the realization that the hand is actually artificial, we experience an eerie sensation. We can get startled by the unnatural behavior of the hand while shaking it, it's coldness and boneless structure that doesn't fit in our mental model of how a human hand should behave while interacting with it.
 
